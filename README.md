@@ -16,3 +16,4 @@ Regular practice, consistency showcase for portfolio.
 | 3   | Sentence Smash                   | 8kyu | [link](./tasks/8kyu/sentence-smash.js)                   |
 | 4   | Build Tower                      | 6kyu | [link](./tasks/6kyu/build-tower.js)                      |
 | 5   | Difference of Volumes of Cuboids | 8kyu | [link](./tasks/8kyu/difference-of-volumes-of-cuboids.js) |
+| 6  | Jaden Casing Strings | 7kyu | [link](./tasks/7kyu/jaden-casing-strings.js) |
