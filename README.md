@@ -18,3 +18,4 @@ Regular practice, consistency showcase for portfolio.
 | 5   | Difference of Volumes of Cuboids | 8kyu | [link](./tasks/8kyu/difference-of-volumes-of-cuboids.js) |
 | 6  | Jaden Casing Strings | 7kyu | [link](./tasks/7kyu/jaden-casing-strings.js) |
 | 7 | Grasshopper - Debug sayHello | 8kyu | [link](./tasks/8kyu/grasshopper -debug-sayHello.js) |
+| 8 | Sort and Star | 8kyu | [link](./tasks/8kyu/sort-and-star.js) |
