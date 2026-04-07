@@ -19,3 +19,4 @@ Regular practice, consistency showcase for portfolio.
 | 6  | Jaden Casing Strings | 7kyu | [link](./tasks/7kyu/jaden-casing-strings.js) |
 | 7 | Grasshopper - Debug sayHello | 8kyu | [link](./tasks/8kyu/grasshopper -debug-sayHello.js) |
 | 8 | Sort and Star | 8kyu | [link](./tasks/8kyu/sort-and-star.js) |
+| 9 | Grasshopper - Messi goals function | 8kyu | [link](./tasks/8kyu/grasshopper-messi-goals-function.js) |
