@@ -20,3 +20,4 @@ Regular practice, consistency showcase for portfolio.
 | 7 | Grasshopper - Debug sayHello | 8kyu | [link](./tasks/8kyu/grasshopper -debug-sayHello.js) |
 | 8 | Sort and Star | 8kyu | [link](./tasks/8kyu/sort-and-star.js) |
 | 9 | Grasshopper - Messi goals function | 8kyu | [link](./tasks/8kyu/grasshopper-messi-goals-function.js) |
+| 10 | Powers of 2 | 8kyu | [link](./tasks/8kyu/powers-of-2.js) |
