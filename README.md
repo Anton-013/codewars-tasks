@@ -24,3 +24,4 @@ Regular practice, consistency showcase for portfolio.
 | 11  | All Star Code Challenge #18        | 8kyu | [link](./tasks/8kyu/all-star-code-challenge-#18.js)      |
 | 12  | The Coupon Code                    | 7kyu | [link](./tasks/7kyu/the-coupon-code.js)                  |
 | 13  | The Jumbler                        | 7kyu | [link](./tasks/7kyu/the-jumbler.js)                      |
+| 14  | What's the real floor?             | 8kyu | [link](./tasks/8kyu/what's-the-real-floor.js)            |
