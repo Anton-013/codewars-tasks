@@ -27,3 +27,4 @@ Regular practice, consistency showcase for portfolio.
 | 14  | What's the real floor?             | 8kyu | [link](./tasks/8kyu/what's-the-real-floor.js)            |
 | 15  | 2D Cellular Neighbourhood          | 7kyu | [link](./tasks/7kyu/2d-cellular-neighbourhood.js)        |
 | 16  | You only need one - Beginner       | 8kyu | [link](./tasks/8kyu/you-only-need-one-beginner.js)       |
+| 17  | Find Multiples of a Number         | 8kyu | [link](./tasks/8kyu/find-multiples-of-a-number.js)       |
