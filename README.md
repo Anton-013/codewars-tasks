@@ -29,3 +29,4 @@ Regular practice, consistency showcase for portfolio.
 | 16  | You only need one - Beginner       | 8kyu | [link](./tasks/8kyu/you-only-need-one-beginner.js)       |
 | 17  | Find Multiples of a Number         | 8kyu | [link](./tasks/8kyu/find-multiples-of-a-number.js)       |
 | 18  | Find the capitals                  | 7kyu | [link](./tasks/7kyu/find-the-capitals.js)                |
+| 19  | Name Shuffler                      | 8kyu | [link](./tasks/8kyu/name-shuffler.js)                    |
