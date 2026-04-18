@@ -30,3 +30,4 @@ Regular practice, consistency showcase for portfolio.
 | 17  | Find Multiples of a Number         | 8kyu | [link](./tasks/8kyu/find-multiples-of-a-number.js)       |
 | 18  | Find the capitals                  | 7kyu | [link](./tasks/7kyu/find-the-capitals.js)                |
 | 19  | Name Shuffler                      | 8kyu | [link](./tasks/8kyu/name-shuffler.js)                    |
+| 20  | Your order, please                 | 6kyu | [link](./tasks/6kyu/your-order-please.js)                |
