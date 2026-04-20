@@ -32,3 +32,4 @@ Regular practice, consistency showcase for portfolio.
 | 19  | Name Shuffler                             | 8kyu | [link](./tasks/8kyu/name-shuffler.js)                           |
 | 20  | Your order, please                        | 6kyu | [link](./tasks/6kyu/your-order-please.js)                       |
 | 21  | Grasshopper - Terminal game move function | 8kyu | [link](./tasks/8kyu/grasshopper-terminal-game-move-function.js) |
+| 22  | Super Duper Easy                          | 8kyu | [link](./tasks/8kyu/super-duper-easy.js)                        |
