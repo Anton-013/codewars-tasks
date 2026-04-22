@@ -34,3 +34,4 @@ Regular practice, consistency showcase for portfolio.
 | 21  | Grasshopper - Terminal game move function | 8kyu | [link](./tasks/8kyu/grasshopper-terminal-game-move-function.js) |
 | 22  | Super Duper Easy                          | 8kyu | [link](./tasks/8kyu/super-duper-easy.js)                        |
 | 23  | Sum without highest and lowest number     | 8kyu | [link](./tasks/8kyu/sum-without-highest-and-lowest-number.js)   |
+| 24  | Highest Scoring Word                      | 6kyu | [link](./tasks/6kyu/highest-scoring-word.js)                    |
