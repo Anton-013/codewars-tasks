@@ -37,3 +37,4 @@ Regular practice, consistency showcase for portfolio.
 | 24  | Highest Scoring Word                        | 6kyu | [link](./tasks/6kyu/highest-scoring-word.js)                      |
 | 25  | Grasshopper - Terminal game combat function | 8kyu | [link](./tasks/8kyu/grasshopper-terminal-game-combat-function.js) |
 | 26  | You're a square!                            | 7kyu | [link](./tasks/7kyu/you're-a-square.js)                           |
+| 27  | Take a Ten Minutes Walk                     | 6kyu | [link](./tasks/6kyu/take-a-ten-minutes-walk.js)                   |
