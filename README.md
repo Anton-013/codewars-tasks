@@ -40,3 +40,4 @@ Regular practice, consistency showcase for portfolio.
 | 27  | Take a Ten Minutes Walk                     | 6kyu | [link](./tasks/6kyu/take-a-ten-minutes-walk.js)                   |
 | 28  | Is the string uppercase?                    | 8kyu | [link](./tasks/8kyu/is-the-string-uppercase.js)                   |
 | 29  | Simple Encryption #1 - Alternating Split    | 6kyu | [link](./tasks/6kyu/simple-encryption-1-alternating-split.js)     |
+| 30  | The Wide-Mouthed frog!                      | 8kyu | [link](./tasks/8kyu/the-wide-mouthed-frog.js)                     |
