@@ -43,3 +43,4 @@ Regular practice, consistency showcase for portfolio.
 | 30  | The Wide-Mouthed frog!                      | 8kyu | [link](./tasks/8kyu/the-wide-mouthed-frog.js)                     |
 | 31  | Find the position!                          | 8kyu | [link](./tasks/8kyu/find-the-position.js)                         |
 | 32  | Are You Playing Banjo?                      | 8kyu | [link](./tasks/8kyu/are-you-playing-banjo.js)                     |
+| 33  | Tribonacci Sequence                         | 6kyu | [link](./tasks/6kyu/tribonacci-sequence.js)                       |
