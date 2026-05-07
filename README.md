@@ -44,3 +44,4 @@ Regular practice, consistency showcase for portfolio.
 | 31  | Find the position!                          | 8kyu | [link](./tasks/8kyu/find-the-position.js)                         |
 | 32  | Are You Playing Banjo?                      | 8kyu | [link](./tasks/8kyu/are-you-playing-banjo.js)                     |
 | 33  | Tribonacci Sequence                         | 6kyu | [link](./tasks/6kyu/tribonacci-sequence.js)                       |
+| 34  | Extract the domain name from a URL          | 5kyu | [link](./tasks/5kyu/extract-the-domain-name-from-a-URL.js)        |
