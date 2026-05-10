@@ -47,3 +47,4 @@ Regular practice, consistency showcase for portfolio.
 | 34  | Extract the domain name from a URL          | 5kyu | [link](./tasks/5kyu/extract-the-domain-name-from-a-URL.js)        |
 | 35  | Find the middle element                     | 7kyu | [link](./tasks/7kyu/find-the-middle-element.js)                   |
 | 36  | Shortest Word                               | 7kyu | [link](./tasks/7kyu/shortest-word.js)                             |
+| 37  | Find the stray number                       | 7kyu | [link](./tasks/7kyu/find-the-stray-number.js)                     |
