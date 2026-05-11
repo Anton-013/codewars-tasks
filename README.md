@@ -48,3 +48,4 @@ Regular practice, consistency showcase for portfolio.
 | 35  | Find the middle element                     | 7kyu | [link](./tasks/7kyu/find-the-middle-element.js)                   |
 | 36  | Shortest Word                               | 7kyu | [link](./tasks/7kyu/shortest-word.js)                             |
 | 37  | Find the stray number                       | 7kyu | [link](./tasks/7kyu/find-the-stray-number.js)                     |
+| 38  | Unique In Order                             | 6kyu | [link](./tasks/6kyu/unique-in-order.js)                           |
