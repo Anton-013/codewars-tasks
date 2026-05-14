@@ -51,3 +51,4 @@ Regular practice, consistency showcase for portfolio.
 | 38  | Unique In Order                             | 6kyu | [link](./tasks/6kyu/unique-in-order.js)                           |
 | 39  | Sort the odd                                | 6kyu | [link](./tasks/6kyu/sort-the-odd.js)                              |
 | 40  | Music 1: How Many Quarter Notes?            | 7kyu | [link](./tasks/7kyu/music-1-how-many-quarter-notes.js)            |
+| 41  | Regex validate PIN code                     | 7kyu | [link](./tasks/7kyu/regex-validate-PIN-code.js)                   |
