@@ -53,3 +53,4 @@ Regular practice, consistency showcase for portfolio.
 | 40  | Music 1: How Many Quarter Notes?            | 7kyu | [link](./tasks/7kyu/music-1-how-many-quarter-notes.js)            |
 | 41  | Regex validate PIN code                     | 7kyu | [link](./tasks/7kyu/regex-validate-PIN-code.js)                   |
 | 42  | Total amount of points                      | 8kyu | [link](./tasks/8kyu/total-amount-of-points.js)                    |
+| 43  | Is it even?                                 | 8kyu | [link](./tasks/8kyu/is-it-even.js)                                |
