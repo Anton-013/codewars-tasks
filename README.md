@@ -55,3 +55,4 @@ Regular practice, consistency showcase for portfolio.
 | 42  | Total amount of points                      | 8kyu | [link](./tasks/8kyu/total-amount-of-points.js)                    |
 | 43  | Is it even?                                 | 8kyu | [link](./tasks/8kyu/is-it-even.js)                                |
 | 44  | Is he gonna survive?                        | 8kyu | [link](./tasks/8kyu/is-he-gonna-survive.js)                       |
+| 45  | Square Every Digit                          | 7kyu | [link](./tasks/7kyu/square-every-digit.js)                        |
