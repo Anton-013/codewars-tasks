@@ -56,3 +56,4 @@ Regular practice, consistency showcase for portfolio.
 | 43  | Is it even?                                 | 8kyu | [link](./tasks/8kyu/is-it-even.js)                                |
 | 44  | Is he gonna survive?                        | 8kyu | [link](./tasks/8kyu/is-he-gonna-survive.js)                       |
 | 45  | Square Every Digit                          | 7kyu | [link](./tasks/7kyu/square-every-digit.js)                        |
+| 46  | Replace With Alphabet Position              | 6kyu | [link](./tasks/6kyu/replace-with-alphabet-position.js)            |
