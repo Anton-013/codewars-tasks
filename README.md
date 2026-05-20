@@ -57,3 +57,4 @@ Regular practice, consistency showcase for portfolio.
 | 44  | Is he gonna survive?                        | 8kyu | [link](./tasks/8kyu/is-he-gonna-survive.js)                       |
 | 45  | Square Every Digit                          | 7kyu | [link](./tasks/7kyu/square-every-digit.js)                        |
 | 46  | Replace With Alphabet Position              | 6kyu | [link](./tasks/6kyu/replace-with-alphabet-position.js)            |
+| 47  | Thinkful - Logic Drills: Red and bumpy      | 6kyu | [link](./tasks/6kyu/thinkful-logic-drills-red-and-bumpy.js)       |
