@@ -59,3 +59,4 @@ Regular practice, consistency showcase for portfolio.
 | 46  | Replace With Alphabet Position              | 6kyu | [link](./tasks/6kyu/replace-with-alphabet-position.js)            |
 | 47  | Thinkful - Logic Drills: Red and bumpy      | 6kyu | [link](./tasks/6kyu/thinkful-logic-drills-red-and-bumpy.js)       |
 | 48  | Check the exam                              | 7kyu | [link](./tasks/7kyu/check-the-exam.js)                            |
+| 49  | Make a function that does arithmetic!       | 7kyu | [link](./tasks/7kyu/make-a-function-that-does-arithmetic.js)      |
