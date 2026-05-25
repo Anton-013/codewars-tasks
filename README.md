@@ -62,3 +62,4 @@ Regular practice, consistency showcase for portfolio.
 | 49  | Make a function that does arithmetic!       | 7kyu | [link](./tasks/7kyu/make-a-function-that-does-arithmetic.js)      |
 | 50  | Will there be enough space?                 | 8kyu | [link](./tasks/8kyu/will-there-be-enough-space.js)                |
 | 51  | Persistent Bugger                           | 6kyu | [link](./tasks/6kyu/persistent-bugger.js)                         |
+| 52  | Ones and Zeros                              | 7kyu | [link](./tasks/7kyu/ones-and-zeros.js)                            |
