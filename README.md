@@ -64,3 +64,4 @@ Regular practice, consistency showcase for portfolio.
 | 51  | Persistent Bugger                           | 6kyu | [link](./tasks/6kyu/persistent-bugger.js)                         |
 | 52  | Ones and Zeros                              | 7kyu | [link](./tasks/7kyu/ones-and-zeros.js)                            |
 | 53  | A wolf in sheep's clothing                  | 8kyu | [link](./tasks/8kyu/a-wolf-in-sheep's-clothing.js)                |
+| 54  | Take a Number And Sum...                    | 6kyu | [link](./tasks/6kyu/take-a-number-and-sum.js)                     |
