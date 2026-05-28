@@ -63,5 +63,6 @@ Regular practice, consistency showcase for portfolio.
 | 50  | Will there be enough space?                 | 8kyu | [link](./tasks/8kyu/will-there-be-enough-space.js)                |
 | 51  | Persistent Bugger                           | 6kyu | [link](./tasks/6kyu/persistent-bugger.js)                         |
 | 52  | Ones and Zeros                              | 7kyu | [link](./tasks/7kyu/ones-and-zeros.js)                            |
-| 53  | A wolf in sheep's clothing                  | 8kyu | [link](./tasks/8kyu/a-wolf-in-sheep's-clothing.js)                |
+| 53  | A wolf in sheep clothing                    | 8kyu | [link](./tasks/8kyu/a-wolf-in-sheep-clothing.js)                  |
 | 54  | Take a Number And Sum...                    | 6kyu | [link](./tasks/6kyu/take-a-number-and-sum.js)                     |
+| 55  | Area of a Circle                            | 7kyu | [link](./tasks/7kyu/area-of-a-circle.js)                          |
