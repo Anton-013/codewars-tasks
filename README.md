@@ -66,3 +66,4 @@ Regular practice, consistency showcase for portfolio.
 | 53  | A wolf in sheep clothing                    | 8kyu | [link](./tasks/8kyu/a-wolf-in-sheep-clothing.js)                  |
 | 54  | Take a Number And Sum...                    | 6kyu | [link](./tasks/6kyu/take-a-number-and-sum.js)                     |
 | 55  | Area of a Circle                            | 7kyu | [link](./tasks/7kyu/area-of-a-circle.js)                          |
+| 56  | WeIrD StRiNg CaSe                           | 6kyu | [link](./tasks/6kyu/weird-string-case.js)                         |
