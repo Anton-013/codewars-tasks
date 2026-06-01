@@ -69,3 +69,4 @@ Regular practice, consistency showcase for portfolio.
 | 56  | WeIrD StRiNg CaSe                           | 6kyu | [link](./tasks/6kyu/weird-string-case.js)                         |
 | 57  | Enumerable Magic #25                        | 8kyu | [link](./tasks/8kyu/enumerable-magic-25.js)                       |
 | 58  | Who ate the cookie?                         | 8kyu | [link](./tasks/8kyu/who-ate-the-cookie.js)                        |
+| 59  | Calculate BMI                               | 8kyu | [link](./tasks/8kyu/calculate-bmi.js)                             |
