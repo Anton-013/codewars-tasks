@@ -70,3 +70,4 @@ Regular practice, consistency showcase for portfolio.
 | 57  | Enumerable Magic #25                        | 8kyu | [link](./tasks/8kyu/enumerable-magic-25.js)                       |
 | 58  | Who ate the cookie?                         | 8kyu | [link](./tasks/8kyu/who-ate-the-cookie.js)                        |
 | 59  | Calculate BMI                               | 8kyu | [link](./tasks/8kyu/calculate-bmi.js)                             |
+| 60  | Convert Decimal Degrees                     | 8kyu | [link](./tasks/7kyu/convert-decimal-degrees.js)                   |
